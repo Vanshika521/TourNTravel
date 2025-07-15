@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769133711149",
+    "project_id": "tourntravel-d16c5",
+    "storage_bucket": "tourntravel-d16c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769133711149:android:c794ec0d2f0a6fada24da4",
+        "android_client_info": {
+          "package_name": "com.android_development.tourntravel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATOQ0oqpfhPBFWh8Z-jyIKbn-XMBPH1zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
