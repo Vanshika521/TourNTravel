@@ -20,19 +20,11 @@ class SplashScreen : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.apply {
-
+            txtView2.setOnClickListener {
+                startActivity(Intent(this@SplashScreen, MainActivity::class.java))
+            }
         }
 
-//        txtView1 = findViewById(R.id.txtView1)
-//        txtView2 = findViewById(R.id.txtView2)
-//
-//        main()
-//        }
-//    fun main(){
-//        txtView2.setOnClickListener {
-//            val intent = Intent(this, MainActivity::class.java)
-//            startActivity(intent)
-//        }
     }
 }
 
