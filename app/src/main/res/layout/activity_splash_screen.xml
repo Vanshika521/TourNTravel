@@ -27,7 +27,7 @@
         android:text="Explore The World With Us"
         android:textAlignment="center"
         android:textColor="@color/white"
-        android:textSize="50sp"
+        android:textSize="35sp"
 
 
         app:layout_constraintBottom_toBottomOf="@id/img"

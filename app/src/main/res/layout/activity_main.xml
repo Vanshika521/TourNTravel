@@ -23,8 +23,8 @@
         android:layout_height="wrap_content"
 
         android:textColor="@color/white"
-        android:textSize="34dp"
-        android:text="Enjoy Your Ride with us... "
+        android:textSize="30dp"
+        android:text="Enjoy Your Ride with us."
         android:textAlignment="center"
         android:paddingTop="10dp"
         app:layout_constraintTop_toTopOf="parent"
@@ -36,7 +36,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
 
-        android:background="#ffccdd"
+        android:background="@color/white"
         android:orientation="vertical"
 
         android:padding="16dp"
